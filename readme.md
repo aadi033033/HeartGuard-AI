@@ -59,3 +59,19 @@ Visualization:
 
 
 ## 📂 Project Structure
+HeartGuard-AI/
+│
+├── app.py
+│
+├── model/
+│   ├── heart_model.pkl
+│   └── scaler.pkl
+│
+├── notebooks/
+│   └── Heart_Disease_Model.ipynb
+│
+├── assets/
+│   └── heartguard_dashboard.png
+│
+├── requirements.txt
+└── README.md
