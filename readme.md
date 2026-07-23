@@ -1,5 +1,5 @@
 # ❤️ HeartGuard AI - Heart Disease Prediction System
-![HeartGuard AI Screenshot](Screenshot2026-07-23172644.png)
+![HeartGuard AI Screenshot](Screenshot-01.png)
 
 ## 🚀 Overview
 
